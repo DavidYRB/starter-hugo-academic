@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/DavidYRB/DavidYRB.github.io.git
+	branch = master
