@@ -22,28 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: other_projects/AR
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Software Engineer III
+    company: Staples Inc.
+    company_url: 
+    company_logo: Staples_2019
+    location: Framingham, MA
+    date_start: '2020-08-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    # description: |2-
+    #     Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
+  
+  - title: Robotics Engineer
+    company: Staples Inc.
+    company_url: 
+    company_logo: Staples_2019
+    location: Framingham, MA
+    date_start: '2019-02-04'
+    date_end: '2020-08-01'
+
+  - title: Advanced Robotics R&D Co-op
+    company: Amazon Robotics
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: AR
+    location: North Reading, MA
+    date_start: '2018-01-08'
+    date_end: '2018-07-04'
+    # description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: SSAT Math Teacher
+    company: New Oriental Education Group
+    company_url: ''
+    company_logo: XDF
+    location: Beijing, China 
+    date_start: '2016-03-08'
+    date_end: '2016-07-25'
 
 design:
   columns: '2'
