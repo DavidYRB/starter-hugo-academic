@@ -1,8 +1,8 @@
 ---
-title: Warehouse Prototype Develpment
-summary: A project to build a warehouse mobile robot for Staple's fullfilment centers
+title: Amazon Robotics 
+summary: A robotic snake created based on origami modules
 tags:
-- Mobile Robot
+- Soft Robot
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

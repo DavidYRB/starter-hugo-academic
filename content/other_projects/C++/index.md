@@ -1,8 +1,8 @@
 ---
-title: Warehouse Prototype Develpment
-summary: A project to build a warehouse mobile robot for Staple's fullfilment centers
+title: Udacity C++ Nanodegree
+summary: A set of C++ projects for improvement of C++ programming skills
 tags:
-- Mobile Robot
+- Programming
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

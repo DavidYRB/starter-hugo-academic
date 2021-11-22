@@ -5,13 +5,12 @@ widget: contact
 
 # This file represents a page section.
 headless: true
-active: false
 
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
-subtitle: I would love to hear from you if you would like to discuss robotics related topic or have questions!
+title: Let's Get In Touch
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
@@ -38,3 +37,7 @@ design:
     image_position: right
     
 ---
+
+where this will be 
+Probably here
+I would love to hear from you if you would like to discuss robotics related topic or have questions!

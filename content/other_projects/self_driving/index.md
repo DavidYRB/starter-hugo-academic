@@ -1,6 +1,6 @@
 ---
-title: Warehouse Prototype Develpment
-summary: A project to build a warehouse mobile robot for Staple's fullfilment centers
+title: Udacity Self-driving Car Nanodegree
+summary: A set of projects related to build a sefl-driving car system
 tags:
 - Mobile Robot
 date: "2016-04-27T00:00:00Z"

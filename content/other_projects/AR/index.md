@@ -1,9 +1,9 @@
 ---
-title: Amazon Robotics 
-summary: A robotic snake created based on origami modules
+title: Manipulation Hardware 
+summary: A summary of major projects that related to manipulation related problems
 tags:
-- Soft Robot
-date: "2016-04-27T00:00:00Z"
+- Robot Manipulation
+date: "2018-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,3 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+

@@ -5,7 +5,6 @@ widget: experience
 
 # This file represents a page section.
 headless: true
-active: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -25,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: CEO
     company: GenCoin
-    company_url: ''
+    company_url: other_projects/AR
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'

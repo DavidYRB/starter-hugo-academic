@@ -1,9 +1,9 @@
 ---
-title: Warehouse Prototype Develpment
-summary: A project to build a warehouse mobile robot for Staple's fullfilment centers
+title: Promotion Big Data Analysis 
+summary: A production that provides promotion analysis and prediction for internal use.
 tags:
-- Mobile Robot
-date: "2016-04-27T00:00:00Z"
+- Big Data
+date: "2020-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
