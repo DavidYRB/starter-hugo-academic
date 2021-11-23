@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
-subtitle:
+title: My Experience
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -53,13 +53,13 @@ experience:
     date_end: '2018-07-04'
     # description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: SSAT Math Teacher
-    company: New Oriental Education Group
+  - title: Research Assistant
+    company: Soft Robotics Lab
     company_url: ''
-    company_logo: XDF
-    location: Beijing, China 
-    date_start: '2016-03-08'
-    date_end: '2016-07-25'
+    company_logo: SRL
+    location: Worcester Polytechnic Institute, Worcester, MA 
+    date_start: '2016-10-08'
+    date_end: '2018-12-08'
 
 design:
   columns: '2'

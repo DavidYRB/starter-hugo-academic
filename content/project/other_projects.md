@@ -7,31 +7,29 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 2
 
 title: ''
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: research_projects
+  page_type: other_projects
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
-  order: desc
+
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  # filter_button:
-  # - name: All
-  #   tag: '*'
-  # - name: Soft Robot
-  #   tag: Soft Robot
-  # - name: Robot Manipulation
-  #   tag: Manipulation
-  # - name: Mobile Robot
-  #   tag: Mobile
+  filter_button:
+  - name: other
+    tag: '*'
+  - name: Big Data
+    tag: bigData
+  - name: Programming
+    tag: programming
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -42,7 +40,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

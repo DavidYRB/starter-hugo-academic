@@ -1,9 +1,9 @@
 ---
-title: Udacity Self-driving Car Nanodegree
-summary: A set of projects related to build a sefl-driving car system
+title: Manipulation Hardware 
+summary: A summary of major projects that related to manipulation related problems
 tags:
-- Mobile Robot
-date: "2016-04-27T00:00:00Z"
+- manipulation
+date: "2018-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,3 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+

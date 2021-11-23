@@ -1,9 +1,9 @@
 ---
-title: Amazon Robotics 
-summary: A robotic snake created based on origami modules
+title: Smart Cart
+summary: Aiming to develop a self-navigating shopping cart for Staples
 tags:
-- Soft Robot
-date: "2016-04-27T00:00:00Z"
+- mobile
+date: "2016-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

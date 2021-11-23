@@ -5,7 +5,7 @@
 
 title: Ruibo Yan # Website name
 baseurl: 'https://DavidYRB.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '@ 2021 by Ruibo Yan' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -34,7 +34,7 @@ summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
+footnotereturnlinkcontents: 
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   event: '/talk/:slug/'

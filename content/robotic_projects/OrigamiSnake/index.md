@@ -2,21 +2,20 @@
 title: Origami Soft Snake
 summary: A robotic snake created based on origami modules
 tags:
-- Soft Robot
-date: "2016-04-27T00:00:00Z"
+- soft
+date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: file-pdf
+  icon_pack: fas
+  name: Paper
+  url: https://softrobotics.wpi.edu/papers/2018/2018-Luo-RAL.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -31,5 +30,3 @@ url_video: ""
 ---
 
 Snake robots offer a useful and unique mobility platform for search-and-rescue applications. However, existing prototypes made of rigid links and joints are hampered by a lack of flexibility that limits their utility in highly cluttered, maze-like environments, and their heavy weight limits their energy-efficiency and performance in three-dimensional (3-D) tasks. As an application based on the research of origami modular manipulator, we created an OriSnake to perform two types (undulation and sidewinding) locomotion that are common seen from real snakes. The OriSnake is assembled by four cylindrical, origami continuum modules driven by internal cables and electric motors, as well as a local feedback control system on each module. Thus, we can distribute actuation, sensing, and control for highly scalable soft robotic continuum origami systems.
-
-[A publication]({{< relref "/publication_pages/OrigamiSnake" >}})

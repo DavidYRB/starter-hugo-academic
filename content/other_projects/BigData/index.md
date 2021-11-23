@@ -2,7 +2,7 @@
 title: Promotion Big Data Analysis 
 summary: A production that provides promotion analysis and prediction for internal use.
 tags:
-- Big Data
+- bigData
 date: "2020-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

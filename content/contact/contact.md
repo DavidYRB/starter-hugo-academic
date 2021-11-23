@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Let's Get In Touch
-subtitle: 
+subtitle: I would love to hear from you if you would like to discuss robotics related topic or have questions!
 
 content:
   # Automatically link email and phone or display as text?
@@ -33,11 +33,7 @@ design:
 
     image: contact_figure.jpg
     image_darken: 0.8
-    image_size: contain
-    image_position: right
+    image_size: cover
+    image_position: left
     
 ---
-
-where this will be 
-Probably here
-I would love to hear from you if you would like to discuss robotics related topic or have questions!

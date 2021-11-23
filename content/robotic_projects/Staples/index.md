@@ -2,8 +2,8 @@
 title: Warehouse Prototype Develpment
 summary: A project to build a warehouse mobile robot for Staple's fullfilment centers
 tags:
-- Mobile Robot
-date: "2016-04-27T00:00:00Z"
+- mobile
+date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

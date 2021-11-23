@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: other_projects
+  page_type: robotic_projects
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -24,14 +24,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Robotics
     tag: '*'
   - name: Soft Robot
-    tag: Soft Robot
+    tag: soft
   - name: Robot Manipulation
-    tag: Manipulation
+    tag: manipulation
   - name: Mobile Robot
-    tag: Mobile
+    tag: mobile
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -45,5 +45,5 @@ design:
   view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

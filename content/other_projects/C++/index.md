@@ -2,7 +2,7 @@
 title: Udacity C++ Nanodegree
 summary: A set of C++ projects for improvement of C++ programming skills
 tags:
-- Programming
+- programming
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

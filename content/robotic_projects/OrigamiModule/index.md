@@ -1,9 +1,8 @@
 ---
 title: Modular Soft Manipulator 
 summary: Experiment on a novel designed origami continuum manipulator module
-tags:
-- Soft Robot
-date: "2016-04-27T00:00:00Z"
+tags: ["soft", "manipulation"]
+date: "2018-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +15,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Paper
-  url: /publication/example/example.pdf
+  url: https://softrobotics.wpi.edu/papers/2017/2017-Santoso-IROS.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
