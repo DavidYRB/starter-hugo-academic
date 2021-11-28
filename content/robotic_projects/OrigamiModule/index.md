@@ -8,7 +8,7 @@ date: "2018-01-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Origami Manipulator Module Parts
   focal_point: Smart
 
 links:
@@ -28,4 +28,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
+### Abstract
+
 Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration. 
+
+### Main Contribution
+In summary, the contribution of this work is the development and analysis of a new approach to continuum
+manipulation that:
+- Uses an origami-inspired mechanism as its body, allowing for significant extension/contraction and bending
+motions;
+- Has a high torsional strength, allowing it to resist
+undesired twisting deformations in 3-D space;
+- Is composed of self-contained modules, whereby the
+addition of modules requires minimal design changes.

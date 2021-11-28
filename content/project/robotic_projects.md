@@ -27,11 +27,11 @@ content:
   - name: Robotics
     tag: '*'
   - name: Soft Robot
-    tag: soft
+    tag: Soft Robot
   - name: Robot Manipulation
-    tag: manipulation
+    tag: Manipulation
   - name: Mobile Robot
-    tag: mobile
+    tag: Mobile Robot
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

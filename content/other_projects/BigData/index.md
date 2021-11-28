@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,5 +27,8 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
+{{% callout note %}}
+Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here. 
+{{% /callout %}}
