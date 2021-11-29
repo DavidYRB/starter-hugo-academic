@@ -59,8 +59,8 @@ email: ""
 highlight_name: true
 ---
 
-My name is Ruibo Yan and I am working at Staples Inc. as a software engineer in Boston, Massachusetts. My career goal is to be a roboticist who is not only devoted to explore the frontier of the area but also focusing on how to convert achievement from lab to real lift, and most importantly advocate for this area and enable more people to involved in this area.
+I am working at Staples Inc. as a software engineer in Boston, Massachusetts. My career goal is to become a roboticist who is not only devoted to explore the frontier of the area but also focusing on how to convert research output from lab to real life. More importantly, I would like to advocate for this area and inspire more people to involved in this area.
 
-In the past few years, I was fortunate enough to work on different robotics projects, from design, fabricate and control a modularized soft robot, to different types of mobile robots and to the application development of robot manipulator. Those experience includes both academic research and industrial application which provide me wider perspective to understand how robotics as a discipline stands in our life and guide me to pursue in a direction more aligned with my career goal.
+In the past few years, I was fortunate to work on different robotics projects, from design, fabrication and control a modularized soft robot, to application development of different types of mobile robots and robot manipulator. Those experience in both academia and industry provide me wide understanding of how robotics as a discipline stands in our life and guides me to pursue in a direction more aligned with my career goal.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/Ruibo_Yan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
