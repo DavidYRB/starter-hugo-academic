@@ -29,7 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here. 
-{{% /callout %}}
+- Implemented A* algorithm that generates path between two points in an OpenStreetMap map
+- Designed a htop-like system monitor that can display system and process information in Linux environment 
+- Improved the performance of a ChatBot application with move semantics and smart pointers to achieve clear object ownership and better resource usage
+- Developed a concurrent system that enables cars to run according to multiple traffic lights with mutex, lock guard 

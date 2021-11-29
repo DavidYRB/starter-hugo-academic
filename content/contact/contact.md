@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Let's Get In Touch
-subtitle: I would love to hear from you if you would like to discuss robotics related topic or have questions!
+subtitle: I would love to hear from you if you would like to discuss robotics related topics or have questions!
 
 content:
   # Automatically link email and phone or display as text?

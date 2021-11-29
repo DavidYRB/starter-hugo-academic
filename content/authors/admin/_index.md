@@ -14,14 +14,14 @@ organizations:
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include wide range of robotics topics, especially focus on robot manipulation problems.
 
 # Interests to show in About widget
 interests:
 - Robot Control
-- Robot Mechanical Design
-- Robot Perception
 - Robot Manipulation
+- Robot Perception
+- Robot Mechanical Design
 
 # Education to show in About widget
 education:
