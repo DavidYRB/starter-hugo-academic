@@ -30,6 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-{{% callout note %}}
-Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here. 
-{{% /callout %}}
+The project was aiming to build a warehouse robotics stack for Staples' fulfillment center. As a main participant, I built a 10m * 5m test environment with precisely allocated QR codes. By consuming the image, IR, encoder data from the prototype robot, I created a path planning algorithm and a controller that enables the warehouse robot to move from any start point to end point stably while carring a 500lb pod. 

@@ -29,12 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-{{% callout note %}}
-Due to the Non-Disclosure Agreement signed with Amazon Robotics, pictures for reference only. The detailed information will not be included here. 
-{{% /callout %}}
+As a co-op, I worked on projects related to end-effectors which will be used to solve the picking problems. I created a ROS Python package to control newly-designed end-effectors to perform picking behavior.
 
-The major project I worked on was related to end-effectors. I created a ROS Python package to control newly-designed end-effectors to perform picking behavior.
-
-Afterwards, I set up the hardware of a 2 robot arm test station from installing station frames, configuring network hub connections, to  calibrating camera sensors. To reflect the station in ROS, I created an entire set of URDF files so the station can be accurately described and displayed in Rviz. 
+Afterwards, I set up a two-roboarm test station from installing station frames, configuring network hub connections, to  calibrating camera sensors. To display the station in ROS, I created an entire set of URDF files so the station can be accurately described and displayed in Rviz. 
 
 I later expanded the ROS stack used internally to facilitate the test process of end-effectors. By creating a package that enables people to select picking points with desired angle and position in the pot through a real time 3D image on the screen, with just a click, the system will drive to the selected location and pick the object. 

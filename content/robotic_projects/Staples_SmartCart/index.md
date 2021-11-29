@@ -30,6 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-{{% callout note %}}
-Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here. 
-{{% /callout %}}
+By creating a test platform with various sensors, I led a team of five built a prototype with SLAM and self-navigation functionality. It laid fundation for further development of different modes of a shopping cart in Staples' stores, for example cart-follow-person mode

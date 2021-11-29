@@ -9,7 +9,7 @@ date: "2020-07-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The photo is for reference only
   focal_point: Smart
 
 links:
@@ -29,6 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-{{% callout note %}}
-Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here. 
-{{% /callout %}}
+To provide the estimation of past promotions and predict the performance of the future promotions, I managed the entire internal promotion analysis product, which not only includes the data engineering pipeline and model training but also involves ensuring high availability of the API used to fetch history and prediction data.
+
+As a progress moving to cloud for entire Staples, this product will also be convert to run on cloud. I designed the architecture of the cloud version of ths promotion analysis product based on the available services provided by Azure. It is an on-going project.
